@@ -1,14 +1,15 @@
 {
-  "name": "vjs-video",
+  "name": "angular-videojs",
   "version": "0.1.10",
   "description": "An angular js directive for video.js",
   "main": "dist/vjs-video.min.js",
   "authors": [
     { "name": "Lonny Gomes" }
+    { "name": "Jacky Yong" }
   ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/LonnyGomes/vjs-video.git"
+    "url": "https://github.com/jackyyong/angular-videojs.git"
   },
   "dependencies": {
     "angular": "^1.3.0",
